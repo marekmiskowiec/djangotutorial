@@ -1,0 +1,13 @@
+body {
+  background-color: rgba(112, 112, 109, 0.491);
+}
+
+li {
+  list-style-type: none;
+  padding: 20px;
+}
+
+li a {
+  color: blue;
+  text-decoration: none;
+}
